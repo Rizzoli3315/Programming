@@ -1,0 +1,3 @@
+This python program (vowel.py), asks the user to input a string, which is basically a sentence which can use alphabets, numbers and symbols.
+
+Then, the code prints all the vowels contained in the string and prints the total number of vowels in the string.

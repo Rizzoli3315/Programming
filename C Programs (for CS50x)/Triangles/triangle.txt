@@ -1,0 +1,43 @@
+In these C programs, the user is prompted to enter a height, and a triangle of the input height is printed using hashes('#').
+
+
+In right_aligned_right_triangle.c, a right angled triangle aligned to the right side is printed.
+
+Example -->        
+             #         
+            ##
+           ###
+          ####
+         #####
+        ######
+       #######
+      ########
+                   
+This is a right aligned right triangle of height 8.
+
+
+In double_triangle.c, two triangles, one right aligned and one left aligned, are printed together with a gap of 2 spaces.
+
+Example -->
+
+        #  #
+       ##  ##
+      ###  ###
+     ####  ####
+
+These are two triangles of height '4'.
+
+
+
+      
+            
+                            
+
+
+
+ 
+
+ 
+  
+              
+

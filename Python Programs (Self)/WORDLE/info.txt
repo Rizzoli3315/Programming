@@ -1,0 +1,11 @@
+This python program (WORDLE.py), runs a wordle game.
+
+In the game, the user has to guess a five letter word which is chosen from a list of five letter words I have entered in the code.
+
+The user can only guess a word from the english dictionary, otherwise it would be invalid. The user gets a total of six tries to guess the words
+after which they lose and the word is revealed.
+
+After each guess, the user is shown whether any of the letters in the guess are same as that in the word, and whether they are in the correct position
+or a different position. Using these hints, the user has to guess the word.
+
+If the user guesses the word within 6 moves, they win.

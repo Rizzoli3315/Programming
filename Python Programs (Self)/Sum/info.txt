@@ -1,0 +1,4 @@
+This python program (sumcheck.py) takes three numbers as user input and adds them. Then it prints the sum, type of number(odd, even or float)
+and then it prints whether the sum is positive or negative.
+
+The user input can be positive, negtive, and can have decimals.

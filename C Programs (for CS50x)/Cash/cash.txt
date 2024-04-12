@@ -1,0 +1,14 @@
+This C project is set in the scenario where the cashier has to give the customer the change that is 
+owed to them, but the cashier must do so using least amount of coins possible.
+
+When the code is run, the user is prompted with the amount(change) that is owed to them in cents.
+Then the code runs a greedy algorithm that returns the least amount of coins required to complete the amount.
+
+Coins used are --->
+
+penny = 1 cent
+nickel = 5 cents
+dime = 10 cents
+quarter = 25 cents
+
+

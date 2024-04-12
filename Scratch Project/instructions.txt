@@ -1,0 +1,29 @@
+Press space to start the game, and green flag to reset.
+
+Click on the cups and plates with mouse pointer to get a plate. 
+
+Drag the plate to the cups to get a cup. 
+
+Drag the cup to the espresso machine to get espresso. 
+
+Drag the espresso to the coffee machine to get double espresso.
+
+Click on the fridge to get a glass of milk.
+
+Drag the milk to the coffee machine to get frothed milk.
+
+Combine frothed milk and single espresso (make them come in contact) to make cappuccino.
+
+Drag the cappuccino to the heart symbol to make heart design on it, or drag it to the flower symbol to make a flower design on it. 
+
+Combine double espresso with milk to make Dark Coffee.
+
+Drag Dark Coffee to chocolate bottle to make mocha.
+
+Customer requests for a particular drink.
+
+Drag the drink to the customer to complete the order.
+
+You can check the order again by clicking on the customer.
+
+Enjoy!

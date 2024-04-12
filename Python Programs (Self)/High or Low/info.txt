@@ -1,0 +1,2 @@
+This python code (highlow.py) runs a game where the user is given a number from 1 to 100. There is another secret number chosen at random.
+The user has to guess whether the secret number is higher or lower than the given number.

@@ -1,0 +1,1 @@
+This python code (main.py) runs a rock, paper or scissors game against cpu, with a working score-board and sound effects.
